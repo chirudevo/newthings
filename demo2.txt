@@ -1,1 +1,2 @@
 this is to understand git pull
+this is to understand git automation using jenkins
